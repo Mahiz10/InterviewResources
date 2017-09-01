@@ -1,0 +1,2 @@
+
+http://java-design-patterns.com/patterns/
